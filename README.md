@@ -1,0 +1,1 @@
+Neste projeto, desenvolvi um site de entretenimento que exibe uma lista de recomendações de filmes, séries e livros. O objetivo do projeto foi não apenas criar um site visualmente atraente, mas também aprender a utilizar Git e GitHub para controle de versão, colaboração e gerenciamento de código.
